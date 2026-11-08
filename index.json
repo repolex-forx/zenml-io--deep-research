@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "deep-research",
+  "versions": [
+    {
+      "commit": "b98b6c0a0a4c855219e69b8b833ea1ed84710046",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:32:46.999516+00:00"
+    }
+  ]
+}
