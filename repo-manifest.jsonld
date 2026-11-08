@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/deep-research/commit/b98b6c0a0a4c855219e69b8b833ea1ed84710046",
       "git:hexsha": "b98b6c0a0a4c855219e69b8b833ea1ed84710046",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T05:32:46.999066+00:00"
     }
   ]
 }
