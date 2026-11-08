@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/zenml-io/deep-research",
+  "@type": "gh:Repository",
+  "gh:name": "deep-research",
+  "gh:owner": "zenml-io",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/zenml-io/deep-research/commit/b98b6c0a0a4c855219e69b8b833ea1ed84710046",
+      "git:hexsha": "b98b6c0a0a4c855219e69b8b833ea1ed84710046",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
